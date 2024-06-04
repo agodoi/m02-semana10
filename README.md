@@ -46,6 +46,45 @@ SSDP
 FTP
 
 
+# Tipos de Redes
+
+## 1) PAN
+
+**Personal Area Network (PAN)** é uma rede de computadores usada para comunicação entre dispositivos próximos a uma pessoa. Normalmente, essas redes cobrem um raio de poucos metros. A rede PAN pode ser utilizada para conectar dispositivos como smartphones, tablets, computadores, impressoras e outros dispositivos pessoais.
+
+[Diagrama de uma Rede PAN]
+
+### Tecnologias de Conexão
+
+As tecnologias mais comuns usadas em PANs são Bluetooth, ZigBee (conexão usada em ambientes com ruído eletromagnético) e NFC (Near Field Communication, usado no cartão de crédito) e, em alguns casos, o Wi-Fi.
+
+### Como Funciona uma Rede PAN?
+
+As PANs funcionam através da comunicação direta entre dispositivos ou via um ponto de acesso central. A seguir, vamos explorar algumas das tecnologias mais comuns utilizadas em PANs.
+
+### Vantagens da PAN
+
+* Mobilidade: permite a comunicação entre dispositivos pessoais em movimento.
+* Fácil Configuração: geralmente, a configuração é simples e rápida.
+* Conectividade Sem Fio: elimina a necessidade de cabos, proporcionando conveniência.
+
+### Desvantagens da PAN
+
+* Alcance Limitado: o alcance é restrito a poucos metros.
+* Interferência: pode haver interferência de outros dispositivos sem fio na mesma faixa de frequência.
+* Segurança: a segurança pode ser uma preocupação, especialmente em tecnologias como Bluetooth.
+
+### Aplicações Práticas de Redes PAN
+
+* Automação Residencial: conectar e controlar dispositivos domésticos como lâmpadas inteligentes, termostatos e fechaduras.
+* Acessórios Pessoais: conectar fones de ouvido Bluetooth a smartphones.
+* Saúde e Fitness: Sincronização de dados entre smartwatches e aplicativos de saúde em smartphones.
+
+## LAN
+
+## MAN
+
+## WAN
 
 
 
