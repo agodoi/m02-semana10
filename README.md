@@ -27,12 +27,19 @@ nome do computador
 Dados do Adaptador de Rede sem Fio:
 IPv4, máscara, DNS, MAC address, IPV6, gateway, servidor DHCP
 
+imagem 2.1
+3.1 (transporte)
+3.12
+4.1 (rede)
+
+
 Explicar os protocolos 
 
 IMCP
 UDP
 TCP
 SSDP
+FTP
 
 
 
