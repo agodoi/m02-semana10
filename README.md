@@ -31,7 +31,11 @@ imagem 2.1
 3.1 (transporte)
 3.12
 4.1 (rede)
+5.1 (enlace)
+6.1 (não confirmei se existe)
+7.1
 
+colisões entre pacotes no wifi, figura 6.7
 
 Explicar os protocolos 
 
