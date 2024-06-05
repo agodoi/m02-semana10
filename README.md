@@ -105,7 +105,7 @@ Na rede LAN têm-se os dispositivos:
 
 ### 2.1) Tecnologias de Conexão
 
-As LANs funcionam através de fio e de rádio. No fio, a tecnologia de conexão chama-se **Ethernet** e no sem fio, **Wi-Fi** (Wireless Fidelity).
+As LANs funcionam através de fio e de rádio. No fio, a tecnologia de conexão chama-se **Ethernet** com as versãoes CAT5e, CAT6, CAT6a, CAT7 e no sem fio, **Wi-Fi** (Wireless Fidelity) com as versões 802.11n, 802.11ac e o mais recente 802.11ax (Wi-Fi 6). Existe ainda o PLC (Power Line Communication) e a fibra óptica.
 
 ### 2.2) Como Funciona uma Rede LAN?
 
@@ -131,10 +131,29 @@ As LANs funcionam através da interconexão de dispositivos usando cabos Etherne
 
 
 
-## MAN
+## 3) MAN
 
-## WAN
+### 3.1) Tecnologias de Conexão
 
+### 3.2) Como Funciona uma Rede LAN?
+
+### 3.3) Vantagens da LAN
+
+### 3.4) Desvantagens da LAN
+
+### 3.5) Aplicações Práticas de Redes LAN
+
+## 4) WAN
+
+### 4.1) Tecnologias de Conexão
+
+### 4.2) Como Funciona uma Rede LAN?
+
+### 4.3) Vantagens da LAN
+
+### 4.4) Desvantagens da LAN
+
+### 4.5) Aplicações Práticas de Redes LAN
 
 
 
