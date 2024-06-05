@@ -105,7 +105,7 @@ Na rede LAN têm-se os dispositivos:
 
 ### 2.1) Tecnologias de Conexão
 
-As LANs funcionam através de fio e de rádio. No fio, a tecnologia de conexão chama-se **Ethernet** com as versãoes CAT5e, CAT6, CAT6a, CAT7 e no sem fio, **Wi-Fi** (Wireless Fidelity) com as versões 802.11n, 802.11ac e o mais recente 802.11ax (Wi-Fi 6). Existe ainda o PLC (Power Line Communication) e a fibra óptica.
+As tecnologias de conexão das LANs são de fio ou sem fio (rádio). No fio, a tecnologia de conexão chama-se **Ethernet** com as versões CAT5e, CAT6, CAT6a, CAT7 e no sem fio, **Wi-Fi** (Wireless Fidelity) têm-se as versões de tecnologias 802.11n, 802.11ac e o mais recente 802.11ax (Wi-Fi 6). Existe ainda o PLC (Power Line Communication) e a fibra óptica.
 
 ### 2.2) Como Funciona uma Rede LAN?
 
@@ -133,27 +133,39 @@ As LANs funcionam através da interconexão de dispositivos usando cabos Etherne
 
 ## 3) MAN
 
+**Metropolitan Area Network (MAN)** é uma rede de computadores que abrange uma área geográfica maior do que uma LAN, mas menor do que uma **WAN (Wide Area Network)**. Normalmente, uma MAN conecta várias LANs dentro de uma cidade ou região metropolitana para compartilhar recursos e serviços. Os dispositivos da MAN são:
+
+* Roteadores, switches e servidores;
+* Cabos de Fibra Óptica: Utilizados para conexões de alta velocidade entre diferentes LANs.
+* Provedores de Serviço de Internet (ISP): são as empresas de telecom que fornecem a infraestrutura necessária para conectar as redes em uma área metropolitana.
+* Equipamentos de Comunicação Com e Sem Fio: utilizados para conexões ponto-a-ponto ou multiponto entre LANs.
+
 ### 3.1) Tecnologias de Conexão
 
-### 3.2) Como Funciona uma Rede LAN?
+Fibra óptica ou links sem fio, que são rádios de micro-ondas que parecem antenas parabólicas ou antenas quadradas.
 
-### 3.3) Vantagens da LAN
 
-### 3.4) Desvantagens da LAN
+### 3.2) Como Funciona uma Rede MAN?
 
-### 3.5) Aplicações Práticas de Redes LAN
+As MANs funcionam conectando várias LANs através de enlaces de alta velocidade.
+
+### 3.3) Vantagens da MAN
+
+### 3.4) Desvantagens da MAN
+
+### 3.5) Aplicações Práticas de Redes MAN
 
 ## 4) WAN
 
 ### 4.1) Tecnologias de Conexão
 
-### 4.2) Como Funciona uma Rede LAN?
+### 4.2) Como Funciona uma Rede WAN?
 
-### 4.3) Vantagens da LAN
+### 4.3) Vantagens da WAN
 
-### 4.4) Desvantagens da LAN
+### 4.4) Desvantagens da WAN
 
-### 4.5) Aplicações Práticas de Redes LAN
+### 4.5) Aplicações Práticas de Redes WAN
 
 
 
