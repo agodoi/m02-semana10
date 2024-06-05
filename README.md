@@ -52,12 +52,12 @@ FTP
 
 **Personal Area Network (PAN)** é uma rede de computadores usada para comunicação entre dispositivos próximos a uma pessoa. Normalmente, essas redes cobrem um raio de poucos metros. Na rede PAN têm-se os dispositivos:
 
-* smartphones
-* computadores
-* fones de ouvido
-* mouse e teclado
-* relógios
-* impressoras e outros dispositivos pessoais.
+* Smartphones;
+* Computadores;
+* Fones de ouvido;
+* Mouse e teclado;
+* Relógios;
+* Impressoras e outros dispositivos pessoais.
 
 [Diagrama de uma Rede PAN]
 
@@ -71,21 +71,21 @@ As PANs funcionam através da comunicação direta entre dispositivos ou via um 
 
 ### 1.3) Vantagens da PAN
 
-* Mobilidade: permite a comunicação entre dispositivos pessoais em movimento.
-* Fácil Configuração: geralmente, a configuração é simples e rápida.
-* Conectividade Sem Fio: elimina a necessidade de cabos, proporcionando conveniência.
+* Mobilidade: permite a comunicação entre dispositivos pessoais em movimento;
+* Fácil Configuração: geralmente, a configuração é simples e rápida;
+* Conectividade sem fio: elimina a necessidade de cabos, proporcionando conveniência.
 
 ### 1.4) Desvantagens da PAN
 
-* Alcance Limitado: o alcance é restrito a poucos metros.
-* Interferência: pode haver interferência de outros dispositivos sem fio na mesma faixa de frequência.
+* Alcance Limitado: o alcance é restrito a poucos metros;
+* Interferência: pode haver interferência de outros dispositivos sem fio na mesma faixa de frequência;
 * Segurança: a segurança pode ser uma preocupação, especialmente em tecnologias como Bluetooth.
 
 ### 1.5) Aplicações Práticas de Redes PAN
 
-* Automação Residencial: conectar e controlar dispositivos domésticos como lâmpadas inteligentes, termostatos e fechaduras.
-* Acessórios Pessoais: conectar fones de ouvido Bluetooth a smartphones.
-* Saúde e Fitness: Sincronização de dados entre smartwatches e aplicativos de saúde em smartphones.
+* Automação residencial: conectar e controlar dispositivos domésticos como lâmpadas inteligentes, termostatos e fechaduras;
+* Acessórios pessoais: conectar fones de ouvido Bluetooth a smartphones;
+* Saúde e fitness: Sincronização de dados entre smartwatches e aplicativos de saúde em smartphones.
 
 ## 2) LAN
 
@@ -93,13 +93,13 @@ As PANs funcionam através da comunicação direta entre dispositivos ou via um 
 
 Na rede LAN têm-se os dispositivos:
  
-* Computadores
-* Servidores
-* Impressoras
-* Switches (conectam dispositivos dentro da LAN)
-* Roteadores (conectam a LAN à Internet)
-* Cabos e Conectores
-* Pontos de Acesso (AP)
+* Computadores;
+* Servidores;
+* Impressoras;
+* Switches (conectam dispositivos dentro da LAN);
+* Roteadores (conectam a LAN à Internet);
+* Cabos e Conectores;
+* Pontos de Acesso (AP).
 
 [Diagrama de uma Rede LAN]
 
@@ -113,22 +113,21 @@ As LANs funcionam através da interconexão de dispositivos usando cabos Etherne
 
 ### 2.3) Vantagens da LAN
 
-* Alta Velocidade: oferece altas taxas de transferência de dados.
-* Confiabilidade: conexões por cabo são muito estáveis e confiáveis.
+* Alta velocidade: oferece altas taxas de transferência de dados;
+* Confiabilidade: conexões por cabo são muito estáveis e confiáveis;
 * Compartilhamento de Recursos: facilita o compartilhamento de recursos como impressoras e arquivos.
 
 ### 2.4) Desvantagens da LAN
 
-* Alcance Limitado: cobertura restrita a uma área geográfica pequena.
-* Custo de Instalação: configurar uma LAN com cabeamento pode ser caro.
+* Alcance limitado: cobertura restrita a uma área geográfica pequena;
+* Custo de instalação: configurar uma LAN com cabeamento pode ser caro;
 * Manutenção: requer manutenção regular para garantir o bom funcionamento.
 
 ### 2.5) Aplicações Práticas de Redes LAN
 
-* Ambientes Empresariais: conectar computadores e servidores em um escritório.
-* Instituições de Ensino: interconectar laboratórios de informática e dispositivos educacionais.
+* Ambientes empresariais: conectar computadores e servidores em um escritório;
+* Instituições de ensino: interconectar laboratórios de informática e dispositivos educacionais;
 * Residências: conectar dispositivos domésticos como computadores, consoles de jogos e smart TVs.
-
 
 
 ## 3) MAN
@@ -136,8 +135,8 @@ As LANs funcionam através da interconexão de dispositivos usando cabos Etherne
 **Metropolitan Area Network (MAN)** é uma rede de computadores que abrange uma área geográfica maior do que uma LAN, mas menor do que uma **WAN (Wide Area Network)**. Normalmente, uma MAN conecta várias LANs dentro de uma cidade ou região metropolitana para compartilhar recursos e serviços. Os dispositivos da MAN são:
 
 * Roteadores, switches e servidores;
-* Cabos de Fibra Óptica: Utilizados para conexões de alta velocidade entre diferentes LANs.
-* Provedores de Serviço de Internet (ISP): são as empresas de telecom que fornecem a infraestrutura necessária para conectar as redes em uma área metropolitana.
+* Cabos de Fibra Óptica: Utilizados para conexões de alta velocidade entre diferentes LANs;
+* Provedores de Serviço de Internet (ISP): são as empresas de telecom que fornecem a infraestrutura necessária para conectar as redes em uma área metropolitana;
 * Equipamentos de Comunicação Com e Sem Fio: utilizados para conexões ponto-a-ponto ou multiponto entre LANs.
 
 ### 3.1) Tecnologias de Conexão
@@ -151,21 +150,60 @@ As MANs funcionam conectando várias LANs através de enlaces de alta velocidade
 
 ### 3.3) Vantagens da MAN
 
+* Alta velocidade: oferece altas taxas de transferência de dados entre diferentes LANs;
+* Ampla cobertura: conecta redes em uma grande área geográfica;
+* Eficiência de custo: compartilhamento de recursos e serviços reduz custos.
+
 ### 3.4) Desvantagens da MAN
+
+* Complexidade de instalação: requer infraestrutura sofisticada e planejamento;
+* Custo inicial: alto custo de instalação de fibra óptica e outros equipamentos;
+* Manutenção: necessita de manutenção regular e suporte técnico especializado.
 
 ### 3.5) Aplicações Práticas de Redes MAN
 
+* Governo e administração pública: Conectar diferentes departamentos e agências dentro de uma cidade;
+* Instituições educacionais: Interconectar campus universitários e bibliotecas;
+* Empresas grandes: Conectar escritórios e filiais espalhados por uma área metropolitana.
+
 ## 4) WAN
+
+Uma **Wide Area Network (WAN)** é uma rede de computadores que abrange uma grande área geográfica, permitindo a comunicação e compartilhamento de recursos entre dispositivos e redes distantes. As WANs são essenciais para conectar escritórios corporativos, instituições governamentais, universidades e outros usuários que precisam de comunicação de longa distância.
+
+Componentes:
+
+* Roteadores e switches: dispositivos que direcionam o tráfego de rede e conectam diferentes redes;
+* Linhas de comunicação: incluem cabos de fibra óptica, cabos submarinos, satélites e enlaces de rádio;
+* Provedores de serviços de telecomunicações e Internet: empresas que fornecem infraestrutura de comunicação para conectar diferentes partes da WAN e à Internet.
 
 ### 4.1) Tecnologias de Conexão
 
+As tecnologias de transmissão mais comuns: 
+
+* Fibra óptica marítma;
+* Satélites;
+* MPLS (Multiprotocol Label Switching) que é um protocolo moderno que integra várias redes de telecomunicações, como celular e links de banda larga.
+
 ### 4.2) Como Funciona uma Rede WAN?
+
+As WANs funcionam conectando várias LANs e MANs através de longas distâncias usando diversas tecnologias de transmissão.
 
 ### 4.3) Vantagens da WAN
 
+* Conectividade global: permite a comunicação entre redes em diferentes locais geográficos;
+* Compartilhamento de recursos: facilita o compartilhamento de recursos e informações entre escritórios e usuários dispersos;
+* Escalabilidade: pode ser expandida para incluir novas regiões ou usuários conforme necessário.
+
 ### 4.4) Desvantagens da WAN
+
+* Custo Elevado: implementação e manutenção podem ser caras;
+* Complexidade: requer infraestrutura sofisticada e gerenciamento especializado;
+* Latência: pode haver atrasos na comunicação devido à distância e à tecnologia utilizada.
 
 ### 4.5) Aplicações Práticas de Redes WAN
 
+* Empresas multinacionais: conectar escritórios em diferentes países;
+* Instituições governamentais: compartilhamento de informações e recursos entre departamentos em diferentes locais.
+* Provedores de Serviços de Internet (ISP - Internet Service Provider): fornecer conectividade à internet em grande escala.
 
 
