@@ -255,7 +255,7 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
 
 
 
-### Como os pacotes trafegam?
+### Onde os protocolos vão?
 
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/camadas_v2.png">
