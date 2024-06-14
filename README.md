@@ -238,7 +238,7 @@ As WANs funcionam conectando várias LANs e MANs através de longas distâncias 
 
 #RESUMO
 
-COLOCAR A FIGURA DOS PACOTES VOANDO
+
 
 
 # Modelo TCP/IP
@@ -248,7 +248,27 @@ COLOCAR A FIGURA DOS PACOTES VOANDO
 O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto de protocolos de comunicação que forma a base da Internet. 
 
 
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/modeloTCP-IP.png">
+   <img alt="Tipo de Modelagens" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m02-semana10/blob/main/imgs/modeloTCP-IP.png)">
+</picture>
 
+
+
+
+
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/camadas_v2.png">
+   <img alt="Tipo de Modelagens" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m02-semana10/blob/main/imgs/camadas_v2.png)">
+</picture>
+
+
+
+
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/TCP-IPfig1.png">
+   <img alt="Tipo de Modelagens" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m02-semana10/blob/main/imgs/TCP-IPfig1.png)">
+</picture>
 
 
 COLOCAR A FIGURA DO MODELO TCP / IP
