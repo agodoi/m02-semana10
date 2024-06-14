@@ -3,7 +3,7 @@
 Nessa instrução vamos nos aprofundar sobre o que acontece quando uma requisição-resposta entre cliente e servidor é processada. Faremos atividades práticas para simular esses processos, e compreenderemos ainda mais sobre Redes de Computadores.
 
 
-# Galera, pensa nessa imagens. Você vai aprender de uma vez por todas o que é a Internet e seu Protocolos.
+# Galera, dá uma olhada nessa imagens. Você vai aprender de uma vez por todas o que é a Internet e seu Protocolos.
 
 ## Pontes
 
