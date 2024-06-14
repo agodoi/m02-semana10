@@ -45,6 +45,16 @@ TCP
 SSDP
 FTP
 
+# Galera, pensa nessa imagens
+
+## Pontes
+
+## Mapas
+
+## Transportes
+
+## Compartilhamento de informações
+
 
 # Tipos de Redes
 
@@ -253,3 +263,4 @@ COLOCAR A FIGURA DO MODELO TCP / IP
     - **Explicação**: o TCP/IP foi desenvolvido com pouca preocupação com a segurança, e muitas de suas funcionalidades nativas são vulneráveis a ataques. Medidas de segurança adicionais são frequentemente necessárias.
     - **Exemplo**: o protocolo não possui mecanismos de criptografia ou autenticação nativos, necessitando de camadas extras de segurança, como VPNs ou TLS, para proteger os dados.
 
+# Prática
