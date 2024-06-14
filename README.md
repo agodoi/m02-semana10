@@ -45,7 +45,7 @@ TCP
 SSDP
 FTP
 
-# Galera, pensa nessa imagens
+# Galera, pensa nessa imagens. Você vai aprender de uma vez por todas o que é a Internet e seu Protocolos.
 
 ## Pontes
 
