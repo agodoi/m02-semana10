@@ -2,48 +2,6 @@
 
 Nessa instrução vamos nos aprofundar sobre o que acontece quando uma requisição-resposta entre cliente e servidor é processada. Faremos atividades práticas para simular esses processos, e compreenderemos ainda mais sobre Redes de Computadores.
 
-Roteiro
-
-Explicar a rede PAN do aluno (teclado, mouse e fone de ouvido);
-Explicar a rede LAN do Inteli (roteadores locais, firewall)
-Rede WAN da ISP que o Inteli contratou (roteadores WAN), fibra óptica e rádio
-Internet, comutação de pacotes, rede heterogênea, comutação de pacotes, backbone, cabos submarinos, satélites
-
-Protocolos em Camadas, vantagens e desvantagens, conceituar, figura 1.13 do livro, 1.15
-Modelo TCP/IP, explicar as camadas.
-
-Uso do CIDR para organizar os endereços IP
-Faixa de endereçso gratuitos
-
-Prática:
-ipconfig /all --> pegue o seu IP local, Gateway Padrão
-ping
-tracert
-Wireshark, vai dando NEXT e marque todas as opções na tela do Ncap
-Se aparecer várias telas pedindo permissão de administrador, vai dando SIM em todas.
-
-Fazer um esquema no draw.io que monte uma rede com todos os computadores e nomes
-nome do computador
-Dados do Adaptador de Rede sem Fio:
-IPv4, máscara, DNS, MAC address, IPV6, gateway, servidor DHCP
-
-imagem 2.1
-3.1 (transporte)
-3.12
-4.1 (rede)
-5.1 (enlace)
-6.1 (não confirmei se existe)
-7.1
-
-colisões entre pacotes no wifi, figura 6.7
-
-Explicar os protocolos 
-
-IMCP
-UDP
-TCP
-SSDP
-FTP
 
 # Galera, pensa nessa imagens. Você vai aprender de uma vez por todas o que é a Internet e seu Protocolos.
 
@@ -299,7 +257,19 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
 
 ## Orientações
 
-### 1) Cada aluno precisa preencher a tabela abaixo com dados do seu computador. Use o comando ipconfig /all no CMD do seu computador. No iMAC use ```system_profiler SPNetworkDataType```
+### 1) Cada aluno precisa preencher a tabela abaixo com dados do seu computador. Use o comando ```ipconfig /all``` no CMD do seu computador. No iMAC faça testes com ```system_profiler SPNetworkDataType```
+
+ipconfig /all --> pegue o seu IP local, Gateway Padrão
+ping
+tracert
+Wireshark, vai dando NEXT e marque todas as opções na tela do Ncap
+Se aparecer várias telas pedindo permissão de administrador, vai dando SIM em todas.
+
+Fazer um esquema no draw.io que monte uma rede com todos os computadores e nomes
+nome do computador
+Dados do Adaptador de Rede sem Fio:
+IPv4, máscara, DNS, MAC address, IPV6, gateway, servidor DHCP
+
 
 ### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
 
