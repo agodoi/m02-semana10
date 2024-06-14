@@ -243,7 +243,7 @@ As WANs funcionam conectando várias LANs e MANs através de longas distâncias 
 
 # Modelo TCP/IP
 
-### Definição do Modelo TCP/IP
+## Definição do Modelo TCP/IP
 
 O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto de protocolos de comunicação que forma a base da Internet. 
 
@@ -255,7 +255,8 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
 
 
 
-### Onde os protocolos vão?
+## Onde os protocolos vão?
+
 
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/camadas_v2.png">
@@ -263,7 +264,7 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
 </picture>
 
 
-
+## De que forma?
 
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/TCP-IPfig1.png">
@@ -271,10 +272,8 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
 </picture>
 
 
-COLOCAR A FIGURA DO MODELO TCP / IP
 
-
-### Vantagens do Modelo TCP/IP
+## Vantagens do Modelo TCP/IP
 
 1. **Interoperabilidade Universal**:
     - **Explicação**: o modelo TCP/IP é amplamente adotado e suportado por praticamente todos os sistemas operacionais e dispositivos de rede, o que facilita a comunicação e integração entre diferentes tecnologias e plataformas.
@@ -288,7 +287,7 @@ COLOCAR A FIGURA DO MODELO TCP / IP
     - **Explicação**: o modelo é robusto e flexível, capaz de se adaptar a diferentes tecnologias de rede e resistir a falhas parciais na rede.
     - **Exemplo**: se uma rota de dados na Internet falhar, o TCP/IP pode redirecionar o tráfego por outras rotas, garantindo que a comunicação não seja interrompida.
 
-### Desvantagens do Modelo TCP/IP
+## Desvantagens do Modelo TCP/IP
 
 1. **Complexidade na Configuração**:
     - **Explicação**: a configuração de redes TCP/IP pode ser complexa, exigindo conhecimentos técnicos avançados para ajustar parâmetros como endereçamento IP, sub-redes e roteamento.
