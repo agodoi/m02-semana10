@@ -235,12 +235,6 @@ As WANs funcionam conectando várias LANs e MANs através de longas distâncias 
 * Instituições governamentais: compartilhamento de informações e recursos entre departamentos em diferentes locais.
 * Provedores de Serviços de Internet (ISP - Internet Service Provider): fornecer conectividade à internet em grande escala.
 
-
-#RESUMO
-
-
-
-
 # Modelo TCP/IP
 
 ## Definição do Modelo TCP/IP
@@ -301,4 +295,16 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
     - **Explicação**: o TCP/IP foi desenvolvido com pouca preocupação com a segurança, e muitas de suas funcionalidades nativas são vulneráveis a ataques. Medidas de segurança adicionais são frequentemente necessárias.
     - **Exemplo**: o protocolo não possui mecanismos de criptografia ou autenticação nativos, necessitando de camadas extras de segurança, como VPNs ou TLS, para proteger os dados.
 
-# Prática
+# Prática com Wireshark
+
+## Orientações
+
+### 1) Cada aluno precisa preencher a tabela abaixo com dados do seu computador. Use o comando ipconfig /all no CMD do seu computador. No iMAC use ```system_profiler SPNetworkDataType```
+
+### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
+
+### 3) Cada grupo deve montar uma apresentação de 5min definindo os protocolos que está observando. O grupo que melhor fazer um melhor historytelling explicando os seus protocolos, leva um chocolate. 
+
+
+
+
