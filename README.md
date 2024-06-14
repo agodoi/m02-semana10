@@ -207,3 +207,49 @@ As WANs funcionam conectando várias LANs e MANs através de longas distâncias 
 * Provedores de Serviços de Internet (ISP - Internet Service Provider): fornecer conectividade à internet em grande escala.
 
 
+#RESUMO
+
+COLOCAR A FIGURA DOS PACOTES VOANDO
+
+
+# Modelo TCP/IP
+
+### Definição do Modelo TCP/IP
+
+O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto de protocolos de comunicação que forma a base da Internet. 
+
+
+
+
+
+COLOCAR A FIGURA DO MODELO TCP / IP
+
+
+### Vantagens do Modelo TCP/IP
+
+1. **Interoperabilidade Universal**:
+    - **Explicação**: o modelo TCP/IP é amplamente adotado e suportado por praticamente todos os sistemas operacionais e dispositivos de rede, o que facilita a comunicação e integração entre diferentes tecnologias e plataformas.
+    - **Exemplo**: Um smartphone rodando iOS pode se comunicar sem problemas com um servidor rodando Linux, graças ao uso comum do TCP/IP.
+
+2. **Escalabilidade**:
+    - **Explicação**: o TCP/IP foi projetado para escalar eficientemente, suportando desde pequenas redes locais até a vasta rede global da Internet.
+    - **Exemplo**: uma empresa pode começar com uma pequena rede interna e expandir para uma rede global sem a necessidade de substituir a infraestrutura ou os protocolos de comunicação.
+
+3. **Robustez e Flexibilidade**:
+    - **Explicação**: o modelo é robusto e flexível, capaz de se adaptar a diferentes tecnologias de rede e resistir a falhas parciais na rede.
+    - **Exemplo**: se uma rota de dados na Internet falhar, o TCP/IP pode redirecionar o tráfego por outras rotas, garantindo que a comunicação não seja interrompida.
+
+### Desvantagens do Modelo TCP/IP
+
+1. **Complexidade na Configuração**:
+    - **Explicação**: a configuração de redes TCP/IP pode ser complexa, exigindo conhecimentos técnicos avançados para ajustar parâmetros como endereçamento IP, sub-redes e roteamento.
+    - **Exemplo**: configurar uma rede corporativa com múltiplos roteadores e sub-redes requer uma compreensão detalhada de conceitos como máscara de sub-rede e tabelas de roteamento.
+
+2. **Sobrecarga de Protocolo**:
+    - **Explicação**: o protocolo TCP, em particular, adiciona uma sobrecarga significativa devido à necessidade de estabelecer e manter conexões, o que pode impactar a performance em redes com recursos limitados.
+    - **Exemplo**: em redes de sensores ou dispositivos IoT com pouca largura de banda, a sobrecarga do TCP pode resultar em menor eficiência na transmissão de dados.
+
+3. **Segurança Limitada por Padrão**:
+    - **Explicação**: o TCP/IP foi desenvolvido com pouca preocupação com a segurança, e muitas de suas funcionalidades nativas são vulneráveis a ataques. Medidas de segurança adicionais são frequentemente necessárias.
+    - **Exemplo**: o protocolo não possui mecanismos de criptografia ou autenticação nativos, necessitando de camadas extras de segurança, como VPNs ou TLS, para proteger os dados.
+
