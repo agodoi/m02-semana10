@@ -49,6 +49,11 @@ FTP
 
 ## Pontes
 
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m02-semana10/blob/main/imgs/">
+   <img alt="Tipo de Modelagens" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m02-semana10/blob/main/imgs/)">
+</picture>
+
 ## Mapas
 
 ## Transportes
