@@ -253,6 +253,63 @@ O modelo TCP/IP, também conhecido como **Modelo de Internet**, é um conjunto d
     - **Explicação**: o TCP/IP foi desenvolvido com pouca preocupação com a segurança, e muitas de suas funcionalidades nativas são vulneráveis a ataques. Medidas de segurança adicionais são frequentemente necessárias.
     - **Exemplo**: o protocolo não possui mecanismos de criptografia ou autenticação nativos, necessitando de camadas extras de segurança, como VPNs ou TLS, para proteger os dados.
 
+# Faixa de Endereçamentos IP
+
+## Entendendo o CIDR: Uma Maneira Flexível de Endereçar Redes
+
+CIDR - Classless Inter-Domain Routing.
+
+Imagine que você precisa organizar um grande número de casas em uma cidade. Em vez de usar nomes de ruas e números de casas individuais, você decide agrupá-las em bairros. 
+
+Cada bairro tem um nome e um número que representa quantas casas ele contém. Essa é a ideia básica por trás do CIDR.
+
+## O que é CIDR?
+
+CIDR é um método para alocar e identificar endereços IP em redes de computadores. Ele substitui o antigo sistema de classes de endereços (A, B, C) por uma abordagem mais flexível. Em vez de classes fixas, o CIDR usa prefixos de comprimento variável para definir o tamanho de uma rede.
+
+## Como Funciona?
+
+Um endereço CIDR é composto por duas partes:
+
+1. **Endereço IP:** um endereço IP normal (por exemplo, 192.168.1.0).
+2. **Prefixo:** um número que indica quantos bits do endereço IP são usados para **identificar o bairro**, que nesse conceito, chama-se **REDE** (por exemplo, /24).
+
+O prefixo define a máscara de sub-rede e o número de endereços IP disponíveis na rede. Por exemplo:
+
+* **/24:** são 24 bits todos **1**, logo usamos uma máscara = 255.255.255.0, e sobram 8 bits, totalizando 256 endereços IP de **CASAS** ou **COMPUTADORES**;
+* **/25:** são 26 bits todos **1**, logo usamos uma máscara = 255.255.255.128, e sobram 7 bits, totalizando 128 endereços IP de COMPUTADORES;
+* **/26:** são 27 bits todos **1**, logo usamos uma máscara = 255.255.255.192, e sobram 6 bits, totalizando 64 endereços IP de COMPUTADORES;
+
+**Vantagens do CIDR:**
+
+* **Alocação Eficiente:** Permite alocar endereços IP de forma mais granular, evitando o desperdício de endereços que ocorria com as classes fixas.
+* **Roteamento Simplificado:** Facilita o roteamento de pacotes na internet, pois os roteadores podem usar o prefixo para determinar rapidamente a rede de destino.
+* **Escalabilidade:** Adapta-se facilmente ao crescimento da internet, permitindo a criação de redes de diferentes tamanhos.
+
+## Faixas de Endereço Privados (Gratuitas)
+
+São faixas reservadas para uso em redes locais e não são roteados na Internet pública. Você pode usá-los livremente dentro de sua rede doméstica ou empresarial:
+
+* 10.x.x.x,
+* 172.16.x.x a 172.31.x.x e
+* 192.168.x.x 
+
+**Exemplo Prático:**
+
+Você tem uma rede com o endereço IP 192.168.1.0 e precisa dividi-la em quatro sub-redes menores. Usando o CIDR, você pode fazer o seguinte:
+
+* **Sub-rede 1:** 192.168.1.0/26
+* **Sub-rede 2:** 192.168.1.64/26
+* **Sub-rede 3:** 192.168.1.128/26
+* **Sub-rede 4:** 192.168.1.192/26
+
+Cada sub-rede terá 64 endereços IP disponíveis para seus dispositivos.
+
+**Conclusão:**
+
+O CIDR é uma ferramenta essencial para o endereçamento de redes na internet moderna. Sua flexibilidade e eficiência o tornam ideal para lidar com o crescimento contínuo da rede e a demanda por endereços IP. Se você trabalha com redes de computadores, entender o CIDR é fundamental para planejar e gerenciar suas redes de forma eficaz.
+
+
 # Prática com Wireshark
 
 ## Orientações
