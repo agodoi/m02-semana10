@@ -310,24 +310,18 @@ Cada sub-rede terá 64 endereços IP disponíveis para seus dispositivos.
 O CIDR é uma ferramenta essencial para o endereçamento de redes na internet moderna. Sua flexibilidade e eficiência o tornam ideal para lidar com o crescimento contínuo da rede e a demanda por endereços IP. Se você trabalha com redes de computadores, entender o CIDR é fundamental para planejar e gerenciar suas redes de forma eficaz.
 
 
-# Prática com Wireshark
+# Prática usando ```ipconfig /all```
 
 ## Orientações
 
-### 1) Cada aluno precisa preencher abrir o link a seguir e preencher com dados do seu computador. Use o comando ```ipconfig /all``` no CMD do seu computador para puxar os dados necessários. No iMAC faça testes com ```system_profiler SPNetworkDataType```
+### 1) Cada aluno precisa abrir o link a seguir e preencher os campos em vermelho no respectivo assento da sua bancada. Use o comando ```ipconfig /all``` no CMD do seu computador para puxar os dados necessários. No iMAC faça testes com ```system_profiler SPNetworkDataType```
 
 [CLIQUE AQUI](https://docs.google.com/presentation/d/1juQH2R2auQRocWxc2rCXlqJZy550fF74A7VYAapsnHk/edit?usp=sharing)
 
-ipconfig /all --> pegue o seu IP local, Gateway Padrão
-ping
-tracert
+# Prática com Wireshark
+
 Wireshark, vai dando NEXT e marque todas as opções na tela do Ncap
 Se aparecer várias telas pedindo permissão de administrador, vai dando SIM em todas.
-
-Fazer um esquema no draw.io que monte uma rede com todos os computadores e nomes
-nome do computador
-Dados do Adaptador de Rede sem Fio:
-IPv4, máscara, DNS, MAC address, IPV6, gateway, servidor DHCP
 
 
 ### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
