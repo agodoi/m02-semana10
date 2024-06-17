@@ -314,7 +314,9 @@ O CIDR é uma ferramenta essencial para o endereçamento de redes na internet mo
 
 ## Orientações
 
-### 1) Cada aluno precisa preencher a tabela abaixo com dados do seu computador. Use o comando ```ipconfig /all``` no CMD do seu computador. No iMAC faça testes com ```system_profiler SPNetworkDataType```
+### 1) Cada aluno precisa preencher abrir o link a seguir e preencher com dados do seu computador. Use o comando ```ipconfig /all``` no CMD do seu computador para puxar os dados necessários. No iMAC faça testes com ```system_profiler SPNetworkDataType```
+
+[CLIQUE AQUI](https://docs.google.com/presentation/d/1juQH2R2auQRocWxc2rCXlqJZy550fF74A7VYAapsnHk/edit?usp=sharing)
 
 ipconfig /all --> pegue o seu IP local, Gateway Padrão
 ping
