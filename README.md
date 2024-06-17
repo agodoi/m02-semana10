@@ -286,7 +286,7 @@ O prefixo define a máscara de sub-rede e o número de endereços IP disponívei
 * **Roteamento Simplificado:** Facilita o roteamento de pacotes na internet, pois os roteadores podem usar o prefixo para determinar rapidamente a rede de destino.
 * **Escalabilidade:** Adapta-se facilmente ao crescimento da internet, permitindo a criação de redes de diferentes tamanhos.
 
-## Faixas de Endereço Privados (Gratuitas)
+## Faixas de Endereços Privados (Gratuitos)
 
 São faixas reservadas para uso em redes locais e não são roteados na Internet pública. Você pode usá-los livremente dentro de sua rede doméstica ou empresarial:
 
