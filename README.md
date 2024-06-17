@@ -1,4 +1,4 @@
-# Mergulhando nas Redes
+# Mergulhando nas Redes como um Tubarão
 
 Nessa instrução vamos nos aprofundar sobre o que acontece quando uma requisição-resposta entre cliente e servidor é processada. Faremos atividades práticas para simular esses processos, e compreenderemos ainda mais sobre Redes de Computadores.
 
@@ -327,7 +327,7 @@ Clique no ícone da barbatana azul do tubarão no canto esquerdo superior. Isso 
 
 ### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
 
-### 3) Cada grupo deve montar uma apresentação de 5min definindo os protocolos que está observando. O grupo que melhor fazer um melhor historytelling explicando os seus protocolos, leva um chocolate. 
+### 3) Cada grupo deve montar uma apresentação de 5min definindo os protocolos que está observando, dar um exemplo de um pacote observado. Os 2 melhores grupos que melhor fazer um historytelling explicando os seus protocolos com os seus exemplos, leva um chocolate.
 
 
 
