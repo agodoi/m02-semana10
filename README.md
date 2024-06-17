@@ -320,9 +320,10 @@ O CIDR é uma ferramenta essencial para o endereçamento de redes na internet mo
 
 # Prática com Wireshark
 
-Wireshark, vai dando NEXT e marque todas as opções na tela do Ncap
-Se aparecer várias telas pedindo permissão de administrador, vai dando SIM em todas.
+Caso não tenha instalado o Wireshark, vai dando NEXT e marque todas as opções na tela do Ncap.
+Se aparecer várias telas pedindo permissão de administrador, vai dando SIM em todas até não ter mais nenhuma.
 
+Clique no ícone da barbatana azul do tubarão no canto esquerdo superior. Isso vai abrir uma janela de observação de protocolos.
 
 ### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
 
