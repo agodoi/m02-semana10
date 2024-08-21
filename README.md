@@ -46,7 +46,7 @@ Nessa instrução vamos nos aprofundar sobre o que acontece quando uma requisiç
 * Relógios;
 * Impressoras e outros dispositivos pessoais.
 
-[Diagrama de uma Rede PAN]
+
 
 ### 1.1) Tecnologias de Conexão
 
