@@ -2,13 +2,6 @@
 
 Nessa instrução vamos nos aprofundar sobre o que acontece quando uma requisição-resposta entre cliente e servidor é processada. Faremos atividades práticas para simular esses processos, e compreenderemos ainda mais sobre Redes de Computadores.
 
-
-# Impacto no seu Projeto da Vivo
-
-A instruçãpo de hoje te ensina a fazer testes internos na infraestrutura da AWS. Exemplo: quais computadores EC2 podem responder a um ping numa rede privada? Quais computadores podem responder um ping numa rede pública? Sua rede privada e rede pública estão se comunicando?
-
-Claro que de cara, um EC2 não vai responder a um PING porque a porta ICMP está fechada por padrão. Lembre-se! AWS inicia tudo com bloqueios.
-
 # Galera, dá uma olhada nessa imagens. Com elas, vocês vão aprender o que é a Internet e seus Protocolos.
 
 ## Pontes
