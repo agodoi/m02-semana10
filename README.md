@@ -325,6 +325,17 @@ Clique no ícone da barbatana azul do tubarão no canto esquerdo superior. Isso 
 
 ### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
 
+
+| Tipo de Evento     | O que está acontecendo?                                                             |
+| ------------------ | ----------------------------------------------------------------------------------- |
+| ARP                | Dispositivos buscando/confirmando IPs na LAN.                                       |
+| TCP/TLS (HTTPS)    | Sessões seguras entre cliente `10.128.1.72` e servidores externos (TLS 1.2 e 1.3).  |
+| DNS                | Resolução de nomes como `slackb.com` para IPs públicos.                             |
+| mDNS/SSDP          | Dispositivos descobrindo serviços de mídia e rede na LAN.                           |
+| DHCP               | Dispositivos se conectando e negociando IP com o servidor.                          |
+| ACKs fora de ordem | Alta carga de dados sendo transmitida, possível buffer ou reenvio por controle TCP. |
+
+
 ### 3) Cada grupo deve montar uma apresentação de 5min definindo os protocolos que está observando, dar um exemplo de um pacote observado. Os 2 melhores grupos que melhor fazer um historytelling explicando os seus protocolos com os seus exemplos, leva um chocolate.
 
 
