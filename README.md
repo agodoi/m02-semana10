@@ -325,6 +325,8 @@ Clique no ícone da barbatana azul do tubarão no canto esquerdo superior. Isso 
 
 ### 2) Observe a tela do Wireshark monitorando os diferentes protocolos que aparecem por 5 minutos e anote 5 protocolos diferentes que estão na lista.
 
+[RELATÓRIO](https://docs.google.com/document/d/1IGRt-VtoJPHgFFuW-glrpMJ2s2PYaDem2KLrSdBYAog/edit?usp=sharing)
+
 
 | Tipo de Evento     | O que está acontecendo?                                                             |
 | ------------------ | ----------------------------------------------------------------------------------- |
